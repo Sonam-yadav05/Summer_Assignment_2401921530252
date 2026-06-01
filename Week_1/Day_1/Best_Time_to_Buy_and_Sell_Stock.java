@@ -1,4 +1,4 @@
-class Solution {
+public class Best_Time_to_Buy_and_Sell_Stock {
     public int maxProfit(int[] prices) {
         int n=prices.length;
         int i=0,j=i+1;

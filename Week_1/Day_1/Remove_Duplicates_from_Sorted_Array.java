@@ -1,4 +1,4 @@
-class Solution {
+public class Remove_Duplicates_from_Sorted_Array {
     public int removeDuplicates(int[] nums) {
         int n= nums.length;
         int[] ans = new int[nums.length];
